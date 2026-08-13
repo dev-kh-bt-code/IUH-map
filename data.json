@@ -1,0 +1,48 @@
+{
+  "intro": {
+    "logo": "img/logo.webp",
+    "leftImage": "img/logo.webp",
+    "rightImage": "img/logo2.png"
+  },
+  "websites": [
+    {
+      "id": "iuh-home",
+      "title": "IUH — Trang chủ",
+      "description": "Tin tức, sự kiện, thông tin tổng quan và các liên kết chính thức của trường.",
+      "category": "Chính thức",
+      "host": "iuh.edu.vn",
+      "url": "https://iuh.edu.vn/",
+      "image": "img/uit_home.png",
+      "tags": [
+        "trường",
+        "tin tức",
+        "official"
+      ]
+    },
+    
+
+
+
+
+    
+    
+  
+    {
+      "id": "iuh-facebook-fanpage",
+      "title": "Fanpage IUH",
+      "description": "Kênh Facebook chính thức để theo dõi tin tức, hoạt động và thông báo nổi bật.",
+      "category": "Chính thức",
+      "host": "facebook.com/IUG.Fanpage",
+      "url": "https://www.facebook.com/sviuh/?locale=vi_VN",
+      "image": "img/uit_fanpage.png",
+      "tags": [
+        "Facebook",
+        "fanpage",
+        "official"
+      ]
+    }
+    
+
+
+  ]
+}
