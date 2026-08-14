@@ -15,8 +15,7 @@
       "image": "img/uit_home.png",
       "tags": [
         "trường",
-        "tin tức",
-        "official"
+        "web"
       ]
     },
     
@@ -38,7 +37,34 @@
       "tags": [
         "Facebook",
         "fanpage",
-        "official"
+        "trường"
+      ]
+    },
+    {
+      "id": "iuh-sinhvien",
+      "title": "Thông tin sinh viên",
+      "description": "Thông tin sinh viên",
+      "category": "Trường",
+      "host": "sv.iuh.edu.vn",
+      "url": "https://sv.iuh.edu.vn/dashboard.html",
+      "image": "img/thongtinsinhvien.jpg",
+      "tags": [
+        "web",
+        "sinh viên",
+        "thông tin"
+      ]
+    },
+    {
+      "id": "tadv",
+      "title": "Tiếng anh đầu vào",
+      "description": "Tiếng anh đầu vào",
+      "category": "Tiếng anh",
+      "host": "mvp.matgoc.com",
+      "url": "https://mvp.matgoc.com/search/label/Home",
+      "image": "img/TADV.png",
+      "tags": [
+        "web",
+        "Tiếng anh"
       ]
     }
     
