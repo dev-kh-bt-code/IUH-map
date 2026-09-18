@@ -18,6 +18,20 @@
         "web"
       ]
     },
+    {
+      "id": "iuh-lib",
+      "title": "IUH — Thư viện",
+      "description": "Thư viện IUH",
+      "category": "Web",
+      "host": "lib.iuh.edu.vn",
+      "url": "https://lib.iuh.edu.vn/",
+      "image": "img/iuhlib.png",
+      "tags": [
+        "trường",
+        "thư viện",
+        "web"
+      ]
+    },
     
 
 
