@@ -32,6 +32,20 @@
         "web"
       ]
     },
+    {
+      "id": "iuh-lms",
+      "title": "IUH — Khoá học",
+      "description": "Khoá học IUH",
+      "category": "Web",
+      "host": "lms.iuh.edu.vn",
+      "url": "https://lms.iuh.edu.vn/",
+      "image": "img/iuhlms.png",
+      "tags": [
+        "trường",
+        "khoá học",
+        "web"
+      ]
+    },
     
 
 
